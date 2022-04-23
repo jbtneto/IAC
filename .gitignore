@@ -7,4 +7,5 @@
 *.tfstate.*
 
 *.pem
+*.credential*
 
